@@ -1,0 +1,11 @@
+- name: "AI Strategy Consulting"
+  icon: "shopping-cart"
+  description: "Personalized consultations to help you integrate AI into your business processes effectively."
+
+- name: "AI Automation"
+  icon: "laptop"
+  description: "Streamline business operations with intelligent automation that reduces costs and enhances efficiency"
+
+- name: "Predictive Analytics"
+  icon: "lock"
+  description: "Use AI to forecast trends and make data-driven predictions for strategic decision-making"

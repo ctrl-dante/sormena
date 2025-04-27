@@ -1,0 +1,20 @@
+/* Apply flexbox to the navbar header */
+.navbar-header {
+    display: flex;
+    align-items: center;  /* Vertically centers the logo */
+    height: 60px;         /* Set the height of the navbar */
+}
+
+/* Adjust the navbar brand for centering */
+.navbar-brand {
+    display: flex;
+    align-items: center;  /* Vertically centers the logo */
+    justify-content: center;  /* Horizontally centers the logo */
+}
+
+/* Control the size of the logo image */
+.navbar-brand img {
+    max-width: 150px;  /* Adjust to the size you want */
+    height: auto;      /* Maintains aspect ratio */
+    margin-bottom: 0;   /* Remove any unwanted bottom margin */
+}
